@@ -1,0 +1,6 @@
+{
+  "appId": "com.mesn.app",
+  "appName": "mesn",
+  "webDir": "public",
+  "bundledWebRuntime": false
+}
